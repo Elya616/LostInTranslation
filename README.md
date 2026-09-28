@@ -23,7 +23,7 @@ during the lab.**
 ## Part 1: Maven Project
 As you have learned, build systems are used to help programmers more easily
 compile, run, and test their programs. In this lab, we'll be using Maven to
-organize and build our program. In particular, we will learn how to use Maven to manage
+organize and build our program. In particular, we will seeing how to use Maven to manage
 the dependencies of our project.
 
 ### Managing Dependencies
